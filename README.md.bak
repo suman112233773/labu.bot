@@ -26,7 +26,7 @@ This script is created by [suman](https://github.com/suman112233773/labu) using 
 ---
 
 ```bash
-git clone https://github.com/suman112233773/labu
+git clone https://github.com/suman112233773/labu.git
 cd hitori
 npm install
 npm update
@@ -39,7 +39,7 @@ pkg install git
 pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
-git clonehttps://github.com/suman112233773/labu
+git clonehttps://github.com/suman112233773/labu.git
 cd labu
 npm install
 ```
@@ -75,5 +75,6 @@ License: [MIT](https://choosealicense.com/licenses/mit/)
 - [Saweria](https://saweria.co/naze)
 
 ## Thanks to
+
 
       SUMAN.(LEBU)
