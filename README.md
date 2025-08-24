@@ -1,0 +1,2 @@
+# labu.bot
+LABU.BOT
